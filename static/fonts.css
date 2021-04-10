@@ -1,0 +1,7 @@
+@font-face {
+  font-family: "Lulo Clean One Bold";
+  font-style: normal;
+  font-weight: normal;
+  src: local("Lulo Clean One Bold"),
+    url("./fonts/Lulo-Clean-One-Bold.woff") format("woff");
+}
